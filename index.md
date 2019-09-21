@@ -25,7 +25,24 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Project
 
+I might put a list of projects here. 
+```markdown
+This is the #list
+
+1. The First One
+2. The Second One
+3. The Third One
+```
+### Puffin Patrol
+ 
+```markdown
+To save the puffin you must catch the puffin.
+
+[CPAWS NL Puffin Patrol](https://cpawsnl.org/puffinpetrelpatrol/)
+
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
