@@ -37,15 +37,12 @@ This is the list
 ```
 ### Puffin Patrol
 
-[CPAWS NL Puffin Patrol](https://cpawsnl.org/puffinpetrelpatrol/)
-
 ![Juvenile Puffins](https://cpawsnl.org/wp-content/uploads/2018/03/20953420_1433076326773468_6661788585021037654_n-2-1024x585.jpg)
 
 ```markdown
 To save the puffin you must catch the puffin.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [CPAWS NL Puffin Patrol](https://cpawsnl.org/puffinpetrelpatrol/).
 
 ### Jekyll Themes
 
