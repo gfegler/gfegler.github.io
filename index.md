@@ -36,14 +36,12 @@ This is the list
 3. The Third One
 ```
 ### Puffin Patrol
- 
-```markdown
+
 To save the puffin you must catch the puffin.
 
 https://cpawsnl.org/puffinpetrelpatrol/
 
-```
-!(https://cpawsnl.org/puffinpetrelpatrol/)
+![Juvenile Puffins](https://cpawsnl.org/puffinpetrelpatrol/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
