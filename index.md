@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 I might put a list of projects here. 
 ```markdown
-This is the #list
+This is the list
 
 1. The First One
 2. The Second One
@@ -40,9 +40,11 @@ This is the #list
 ```markdown
 To save the puffin you must catch the puffin.
 
-[CPAWS NL Puffin Patrol](https://cpawsnl.org/puffinpetrelpatrol/)
+https://cpawsnl.org/puffinpetrelpatrol/
 
 ```
+!(https://cpawsnl.org/puffinpetrelpatrol/)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
